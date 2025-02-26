@@ -22,6 +22,9 @@ Trong dự án này, chúng ta sẽ phát triển một chương trình Nhận d
 
 Sau đó chúng ta sẽ xây dựng giao diện bằng Streamlit.
 
+## Results
+![alt text](images/result.png)
+
 ## Notebooks
 
 - STR_Detection: notebook sử dụng YOLOv11 cho việc phát hiện văn bản.
