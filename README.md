@@ -17,8 +17,9 @@ Quy trình Nhận dạng Văn bản trong Ảnh điển hình gồm hai giai đo
 ![alt text](images/image.png)
 
 Trong dự án này, chúng ta sẽ phát triển một chương trình Nhận dạng Văn bản trong Ảnh sử dụng YOLOv11 (cho việc phát hiện văn bản) và CRNN (cho việc nhận dạng chữ) cho tập dataset ICDAR2003. Đầu vào và đầu ra của chương trình như sau:
-• Đầu vào: Một bức ảnh chứa văn bản.
-• Đầu ra: Tọa độ vị trí và nội dung văn bản trong ảnh.
+
+- Đầu vào: Một bức ảnh chứa văn bản.
+- Đầu ra: Tọa độ vị trí và nội dung văn bản trong ảnh.
 
 Sau đó chúng ta sẽ xây dựng giao diện bằng Streamlit.
 
